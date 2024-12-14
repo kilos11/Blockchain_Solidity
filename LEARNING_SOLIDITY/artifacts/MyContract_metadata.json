@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_externalContract",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "mustHaveSomeBalance",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LEARNING_SOLIDITY/Calling Other Contracts.sol": "MyContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LEARNING_SOLIDITY/Calling Other Contracts.sol": {
+			"keccak256": "0x399f57cf74a4fe23902f0bf84572cf7e087e6132459788a9edbf2bbe3d151a60",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6ae0fd6f8fefd4ef1805b021a14c97672dc9fb6d985d5e420cc6da8161b4325c",
+				"dweb:/ipfs/Qmc35BijxoodQb8kRv9VpptoZgJmxaPReh1YQz1M9jggdJ"
+			]
+		}
+	},
+	"version": 1
+}

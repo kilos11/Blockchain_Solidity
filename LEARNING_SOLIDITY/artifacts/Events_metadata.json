@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "sender",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "testCalled",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LEARNING_SOLIDITY/Events.sol": "Events"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LEARNING_SOLIDITY/Events.sol": {
+			"keccak256": "0xc501686ce69725194e4b7f165ae3a670cecd779d8105e7f9070b90ed30de82ed",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c5b1ef9c6b5f2c7819c779c4aa65fadb50726fc4cc904cf7d70ee3be4ea2caf6",
+				"dweb:/ipfs/QmQqPheKv5XaVkEU6J3sQVTEHh9M9rLW1R7jB9tF6qjp6B"
+			]
+		}
+	},
+	"version": 1
+}

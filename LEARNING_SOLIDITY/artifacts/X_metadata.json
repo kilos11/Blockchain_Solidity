@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LEARNING_SOLIDITY/Constructors.sol": "X"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LEARNING_SOLIDITY/Constructors.sol": {
+			"keccak256": "0xeeccb9641557825e97481cfafb692d286b4322c1c6d63cced8f8bbd4dc9e31ec",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5e3f08226b25d92412a049cf6bdbe1e6f2876ffefc2e3f593ac63e1bd13087a3",
+				"dweb:/ipfs/QmUZo1jcQNRr9xHhkHkC68TQwK7cphR4vtZSzFcGp24GqX"
+			]
+		}
+	},
+	"version": 1
+}

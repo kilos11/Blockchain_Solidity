@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LEARNING_SOLIDITY/Inheritance_Learnweb3.sol": "E"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LEARNING_SOLIDITY/Inheritance_Learnweb3.sol": {
+			"keccak256": "0x5040e16f5b98ad6324ce9138c3f9e8eead2b215c871426cc0aac3a6634b1d256",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d55d7609b4646c0a0d67a37a526050052eff9ad4cfbf67ae471cb9896c7b5625",
+				"dweb:/ipfs/QmVgGqx8MUdpT5dmH9CXSNhjXkNvTnnpWegcj2snqgofY5"
+			]
+		}
+	},
+	"version": 1
+}

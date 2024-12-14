@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"LEARNING_SOLIDITY/Contract_Inheritance.sol": "Ownable"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"LEARNING_SOLIDITY/Contract_Inheritance.sol": {
+			"keccak256": "0xced0f902685d693ced356335e3de23a02940ea95da873cdf54baa5aa90c5be4b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e012e69e456bf472aa79728540e3a5920a72dc238afefcb8107c4696818b4d41",
+				"dweb:/ipfs/QmPuNs9iPfox1hhw4bXL6TzPJgK5kyEUj2VSVP9Wa19abD"
+			]
+		}
+	},
+	"version": 1
+}

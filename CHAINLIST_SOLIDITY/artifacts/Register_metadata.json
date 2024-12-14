@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getInfo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_info",
+						"type": "string"
+					}
+				],
+				"name": "setInfo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CHAINLIST_SOLIDITY/Register.sol": "Register"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CHAINLIST_SOLIDITY/Register.sol": {
+			"keccak256": "0xc34317cf729499655a556418b07880f50f8ce700799b9c261717e999e0d56a60",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://724bedc71235d167ce712964f05073f09cb137b0292b941d733ed96d787db440",
+				"dweb:/ipfs/QmbRTWgiS7RQrzPSMnbVg3ZqVc3wSwi7xaPUoGnEXKGf86"
+			]
+		}
+	},
+	"version": 1
+}
